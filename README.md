@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Design Operations Workshops
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project template for learning to collaborate and build a creative operation to move at the pace of technology.
+Incorporating organizing principles to run as a squad while maintaining expertise within the depth of tribes.
 
-## Available Scripts
+Development is bootstrapped with Create React App.
 
-In the project directory, you can run:
+The project is set within the context of VisitDenmark, looking to exploit the numerouse potential for exploration within Denmark for turists to discover. 
 
-### `npm start`
+## Data From GuideDanmark's opendata.dk
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In the project assets directory, you can find datasets from GuideDanmark over Aarhus provided in JSON. The different files include all the data, as well as seperated datasets by language and the categories of events, activities, attractions, and places to eat.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The datasets taken from the larger dataset over all of Denmark and can be found here:
 
-### `npm test`
+https://www.opendata.dk/andres-data/guidedanmark-oplevelser-overnantning-aktiviteter-i-hele-danmark
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Design Systems 
 
-### `npm run build`
+Provided within the assets/design directory is an explantory design guide in PDF of VisitDenmark's Corporate Visual Identity. The design guide presents the logo, type, color, icons, imagery, and tone of voice. Also included are the logo and typography files. These are useful for creating the digital design system.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The entire design guide is publicly available here:
+https://www.visitdenmark.dk/corporate/branding-danmark/designguide
