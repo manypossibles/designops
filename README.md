@@ -5,7 +5,7 @@ Incorporating organizing principles to run as a squad while maintaining expertis
 
 Development is bootstrapped with Create React App.
 
-The project is set within the context of VisitDenmark, looking to exploit the numerouse potential for exploration within Denmark for turists to discover. 
+The project is set within the context of VisitDenmark, looking to better present the numerous attractive destinations within Denmark for turists to discover and explore. 
 
 ## Data From GuideDanmark's opendata.dk
 
